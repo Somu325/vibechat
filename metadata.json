@@ -1,0 +1,5 @@
+{
+  "name": "Real-Time Chat App",
+  "description": "A simple real-time chat application built with React, Node.js, Socket.IO, and Redis, using pure CSS.",
+  "requestFramePermissions": []
+}
